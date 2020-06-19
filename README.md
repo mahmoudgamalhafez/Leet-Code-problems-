@@ -3,5 +3,5 @@
 
 Solving Problems Using **C/C++**
 
-| # | Title | Difficulty |
-|---| ----- | ---------- |
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
