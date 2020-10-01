@@ -18,35 +18,61 @@ All given inputs are in lowercase letters a-z.
 
 */
 
-// #include <iostream>
-// #include <vector> 
+//  A C++ Program to find the longest common prefix 
+#include<bits/stdc++.h> 
+using namespace std; 
+  
+// A Function to find the string having the minimum 
+// length and returns that length 
+int findMinLength(vector<string>& strs) 
+{ 
+    int min = strs[0].length(); 
+    int n =strs.size();
+  
+    for (int i=1; i<n; i++) 
+        if (strs[i].length() < min) 
+            min = strs[i].length(); 
+  
+    return(min); 
+} 
+    string longestCommonPrefix(vector<string>& strs) 
+    {
+        int n =strs.size();
+        if(n<=0)
+            return "";
+        int minlength=findMinLength(strs);
+        
+        char current ;
+        string result="" ;
+        
+        for(int i=0;i<minlength;i++)
+        {
+             current = strs[0][i]; 
 
-// using namespace std; 
+            for (int j=1 ; j<n; j++) 
+                if (strs[j][i] != current) 
+                    return result; 
 
-// string longestCommonPrefix(vector<string>& strs) 
-// {
-//       string  LCP="" ;
-//       int length = strs.size();
-//       int j=0;
-//       while(true){
-//             for(int i=0;i<length;i++){
-//                   if(j>=strs[i].length())
-//                   {
-//                         return LCP;
-//                   }
-//             }
-//             char ch =strs[0][j];
-//             for(int i=1;i<length;i++)
-//             {
-//                   if(strs[i][j]!=ch)
-//                   {
-//                         break;
-//                   }
-//             }
-//       }   
-// }
+            // Append to result 
+            result.push_back(current);
+        }
 
-// int main()
-// {
+        return result;
 
-// }
+    }
+
+// Driver program to test above function 
+int main() 
+{ 
+    vector<string> strs = {}; 
+    
+  
+    string ans = longestCommonPrefix (strs); 
+  
+    if (ans.length()) 
+        cout << "The longest common prefix is "
+             << ans; 
+    else
+        cout << "There is no common prefix"; 
+    return (0); 
+} 
