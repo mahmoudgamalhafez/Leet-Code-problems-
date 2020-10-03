@@ -126,6 +126,7 @@ bool isValid(string s)
         else{
             return false;
         }
+    }
     return buf.empty();
 }
 
