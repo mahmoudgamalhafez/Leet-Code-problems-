@@ -12,6 +12,7 @@ Solving Problems Using **C/C++**
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C++](./Algorithms/LongestCommonPrefix/Longest_Common_Prefix.cpp)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](./Algorithms/ValidParentheses/Valid_Parentheses.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./Algorithms/RemoveElement/Remove_Element.cpp)|Easy|
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)| [C++](./Algorithms/ImplementstrStr/Implement_strStr.cpp)|Easy|
 |107|[ Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [C++](./Algorithms/BinaryTreeLevelOrderTraversalII/Binary_Tree_Level_Order_Traversal_II.cpp)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./Algorithms/UglyNumber/Ugly_Number.cpp)|Easy|
 |264|[Ugly NumberII](https://leetcode.com/problems/ugly-number-ii/)| [C++](./Algorithms/UglyNumberII/UglyNumberII.cpp)|Medium|
