@@ -14,6 +14,7 @@ Solving Problems Using **C/C++**
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](./Algorithms/RemoveElement/Remove_Element.cpp)|Easy|
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr/)| [C++](./Algorithms/ImplementstrStr/Implement_strStr.cpp)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](./Algorithms/searchInsert/search_Insert.cpp)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](./Algorithms/CountAndSay/Count_and_Say.cpp)|Easy|
 |107|[ Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [C++](./Algorithms/BinaryTreeLevelOrderTraversalII/Binary_Tree_Level_Order_Traversal_II.cpp)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./Algorithms/UglyNumber/Ugly_Number.cpp)|Easy|
 |264|[Ugly NumberII](https://leetcode.com/problems/ugly-number-ii/)| [C++](./Algorithms/UglyNumberII/UglyNumberII.cpp)|Medium|

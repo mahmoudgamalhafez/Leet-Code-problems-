@@ -6,7 +6,8 @@
         "new": "cpp",
         "string_view": "cpp",
         "regex": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "string": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
