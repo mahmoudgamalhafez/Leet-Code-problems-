@@ -18,6 +18,7 @@ Solving Problems Using **C/C++**
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](./Algorithms/MaximumSubarray/MaximumSubarray.cpp)|Easy|
 |58|[LengthofLastWord](https://leetcode.com/problems/length-of-last-word/)| [C++](./Algorithms/LengthofLastWord/LengthOfLastWord.cpp)|Easy|
 |66|[PlusOne](https://leetcode.com/problems/plus-one/)| [C++](./Algorithms/PlusOne/PlusOne.cpp)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](./Algorithms/Sqrt-x/sqrt.cpp)|Easy|
 |107|[ Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [C++](./Algorithms/BinaryTreeLevelOrderTraversalII/Binary_Tree_Level_Order_Traversal_II.cpp)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./Algorithms/UglyNumber/Ugly_Number.cpp)|Easy|
 |264|[Ugly NumberII](https://leetcode.com/problems/ugly-number-ii/)| [C++](./Algorithms/UglyNumberII/UglyNumberII.cpp)|Medium|
