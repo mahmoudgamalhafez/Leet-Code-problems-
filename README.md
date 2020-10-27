@@ -24,6 +24,7 @@ Solving Problems Using **C/C++**
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [C++](./Algorithms/PowerofTwo/PowerofTwo.cpp)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](./Algorithms/UglyNumber/Ugly_Number.cpp)|Easy|
 |264|[Ugly NumberII](https://leetcode.com/problems/ugly-number-ii/)| [C++](./Algorithms/UglyNumberII/UglyNumberII.cpp)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)| [C++](./Algorithms/MissingNumber/MissingNumber.cpp)|Medium|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)| [C++](./Algorithms/ArrangingCoins/Arranging_Coins.cpp)|Easy|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)| [C++](./Algorithms/NumberofRecentCalls/Number_of_Recent_Calls.cpp)|Easy|
 
